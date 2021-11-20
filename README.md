@@ -1,0 +1,1 @@
+# predict-of-temerature-using-linear-regression
